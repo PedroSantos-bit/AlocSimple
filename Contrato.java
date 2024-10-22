@@ -9,7 +9,6 @@ public class Contrato {
 	private Integer tempoDeAlocacao;
 	public String formatoContrato; //aqui a dúvida.
 	
-	private Pagamentos pagamentos;
 	
 	DateTimeFormatter formato = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 	
